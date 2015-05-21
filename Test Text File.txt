@@ -1,2 +1,5 @@
 New test file for repository.
-Adding a second line.
+
+Different sentence for read-update repository.
+
+Another sentence.
